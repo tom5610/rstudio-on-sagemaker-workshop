@@ -1,5 +1,5 @@
 # Pull R Base image from Amazon Public ECR Gallery
-FROM FROM public.ecr.aws/docker/library/r-base:latest
+FROM public.ecr.aws/docker/library/r-base:latest
 
 MAINTAINER Amazon SageMaker Examples <amazon-sagemaker-examples@amazon.com>
 
